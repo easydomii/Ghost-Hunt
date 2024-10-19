@@ -10,7 +10,7 @@ Add the script to your `server.cfg` file.
 ## Step 3:
 Configure the script to your likings. 
 
-> ### Find more premium scripts on our store
+### Find more premium scripts on our store
 > https://lith.store/
 >
 > [Discord](https://discord.gg/CMXznkWYxa)
